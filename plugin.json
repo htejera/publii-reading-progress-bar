@@ -1,0 +1,33 @@
+{
+    "name": "Reading Progress Bar",
+    "description": "This plugin adds a visual reading progress bar to your posts, indicating how much of the article has been scrolled through.",
+    "license": "MIT",
+    "author": "htejera",
+    "version": "1.0.0",
+    "scope": "site",
+    "minimumPubliiVersion": "0.40.0",
+    "usePluginSettingsView": false,
+    "messageInOptions": {
+      "type": "info",
+      "text": "Customize the appearance and position of the reading progress bar."
+    },
+    "config": [
+      {
+        "name": "barColor",
+        "label": "Bar Color",
+        "note": "Set the color of the progress bar.",
+        "group": "Appearance",
+        "value": "#000000",
+        "type": "colorpicker"
+      },
+      {
+        "name": "barHeight",
+        "label": "Bar Height",
+        "note": "Set the height of the progress bar in pixels.",
+        "group": "Appearance",
+        "value": "4",
+        "type": "number"
+      }
+    ]
+  }
+  
