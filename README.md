@@ -6,6 +6,10 @@
 
 This [Publii](https://getpublii.com) plugin adds a dynamic reading progress bar to your site, visually indicating to users how far they've scrolled through an article. The progress bar is a thin, subtle line that appears at the top of the page and fills in as the user scrolls down.
 
+![Example](https://github.com/htejera/publii-reading-progress-bar/blob/main/reading-progress-bar.gif?raw=true)
+
+[Open demo](https://publii-2pdf.surge.sh/evariste-galois-the-revolutionary-mathematician-whose-legacy-transforms-algebra.html)
+
 ## Features
 
 - **Simple Integration:** Easily integrates with your Publii site with minimal setup.
@@ -26,6 +30,7 @@ The plugin offers the following configuration options:
 - **Bar Color**: Set the color of the progress bar. Default: black.
 - **Bar Height**: Set the height of the progress bar in pixels. Default: 4.
 
+![Configuration](https://github.com/htejera/publii-reading-progress-bar/blob/main/configuration.jpg?raw=true)
 
 ## Customization
 
